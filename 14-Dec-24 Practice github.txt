@@ -1,0 +1,11 @@
+1/git config --global user.name "Suha-29"
+2/git config --global user.email "zaimarahman845@gmail.com"
+3/pwd
+4/cd Desktop
+5/mkdir GitHub_Practice
+6/cd GitHub_Practice
+7/git clone https://github.com/Suha-29/Class-27.git
+8/git status 
+9/git add
+10/git commit -m "Using commands for Git Bash"
+11/git push origin 

@@ -5,6 +5,7 @@
 5/mkdir GitHub_Practice
 6/cd GitHub_Practice
 7/git clone https://github.com/Suha-29/Class-27.git
+--(cd class-27)--
 8/git status 
 9/git add
 10/git commit -m "Using commands for Git Bash"
